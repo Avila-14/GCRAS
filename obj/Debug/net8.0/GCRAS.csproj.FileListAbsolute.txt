@@ -1,0 +1,7 @@
+D:\2024\Visual Studio Comm\GCRAS\obj\Debug\net8.0\GCRAS.csproj.AssemblyReference.cache
+D:\2024\Visual Studio Comm\GCRAS\obj\Debug\net8.0\GCRAS.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024\Visual Studio Comm\GCRAS\obj\Debug\net8.0\GCRAS.AssemblyInfoInputs.cache
+D:\2024\Visual Studio Comm\GCRAS\obj\Debug\net8.0\GCRAS.AssemblyInfo.cs
+D:\2024\Visual Studio Comm\GCRAS\obj\Debug\net8.0\GCRAS.csproj.CoreCompileInputs.cache
+D:\2024\Visual Studio Comm\GCRAS\obj\Debug\net8.0\GCRAS.MvcApplicationPartsAssemblyInfo.cs
+D:\2024\Visual Studio Comm\GCRAS\obj\Debug\net8.0\GCRAS.MvcApplicationPartsAssemblyInfo.cache
