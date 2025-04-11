@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GCRAS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c735f2c1ffe79468c61941253b6a37a0dda15e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GCRAS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GCRAS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

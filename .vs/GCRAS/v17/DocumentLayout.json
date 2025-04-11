@@ -7,6 +7,13 @@
       "RelativeMoniker": "D:0:0:{0C40926F-22EB-45B7-B5D6-0A87637EDBDC}|GCRAS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0C40926F-22EB-45B7-B5D6-0A87637EDBDC}|GCRAS.csproj|d:\\2024\\visual studio comm\\gcras\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C40926F-22EB-45B7-B5D6-0A87637EDBDC}|GCRAS.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48186A27-B596-4C55-B4CA-53B4059FBE3B}|..\\AuthServer\\AuthServer.csproj|d:\\2024\\visual studio comm\\authserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0C40926F-22EB-45B7-B5D6-0A87637EDBDC}|GCRAS.csproj|d:\\2024\\visual studio comm\\gcras\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C40926F-22EB-45B7-B5D6-0A87637EDBDC}|GCRAS.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +24,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0C40926F-22EB-45B7-B5D6-0A87637EDBDC}|GCRAS.csproj|d:\\2024\\visual studio comm\\gcras\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C40926F-22EB-45B7-B5D6-0A87637EDBDC}|GCRAS.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C40926F-22EB-45B7-B5D6-0A87637EDBDC}|GCRAS.csproj|d:\\2024\\visual studio comm\\gcras\\migrations\\20250406061321_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C40926F-22EB-45B7-B5D6-0A87637EDBDC}|GCRAS.csproj|solutionrelative:migrations\\20250406061321_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +33,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\2024\\Visual Studio Comm\\AuthServer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\AuthServer\\Models\\User.cs",
+              "ToolTip": "D:\\2024\\Visual Studio Comm\\AuthServer\\Models\\User.cs",
+              "RelativeToolTip": "..\\AuthServer\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:22:49.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\2024\\Visual Studio Comm\\GCRAS\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\2024\\Visual Studio Comm\\GCRAS\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:48:49.767Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,27 +69,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\2024\\Visual Studio Comm\\GCRAS\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T06:25:27.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250406061321_InitialCreate.cs",
-              "DocumentMoniker": "D:\\2024\\Visual Studio Comm\\GCRAS\\Migrations\\20250406061321_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250406061321_InitialCreate.cs",
-              "ToolTip": "D:\\2024\\Visual Studio Comm\\GCRAS\\Migrations\\20250406061321_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20250406061321_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T06:13:22.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\2024\\Visual Studio Comm\\GCRAS\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "Models\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T05:14:43.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T05:14:43.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Source.cs",
               "DocumentMoniker": "D:\\2024\\Visual Studio Comm\\GCRAS\\Models\\Source.cs",
               "RelativeDocumentMoniker": "Models\\Source.cs",
@@ -81,12 +96,11 @@
               "RelativeToolTip": "Models\\Source.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T05:11:31.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T05:11:31.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\2024\\Visual Studio Comm\\GCRAS\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -94,8 +108,7 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T05:01:48.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T05:01:48.557Z"
             }
           ]
         }
